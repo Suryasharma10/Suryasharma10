@@ -20,6 +20,6 @@ Projects:
 * Engaged in activities like MyGov quizzes
 🌐 Let's Connect
 Linkedin => www.linkedin.com/in/surya-pratap-sharma-b556a6287
-GitHub => 
+GitHub => https://github.com/Suryasharma10
 🤝 Open for Collaboration:
 I'm always open to collaborate on interesting tech projects or learning opportunities. Feel free to connect and discuss ideas!
